@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+#walker {
+  border-color: rgb(72, 72, 255);
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#speed {
+  width: 10vw;
+  position: absolute;
+  bottom: 1%;
+  left: 2%;
+}
